@@ -32,6 +32,10 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="linguagem R">
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="rstudio">
-  <img src="" alt="">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
 </div>
+
+
 ![Kedna GitHub stats](https://github-readme-stats.vercel.app/api?username=lealkedna&show_icons=true&theme=onedark)
+
+
